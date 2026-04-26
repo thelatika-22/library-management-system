@@ -26,10 +26,9 @@ A simple Command Line Interface (CLI) based Library Management System built usin
 ## 📂 Project Structure
 
 library-management-system/
-
-│── main.py 
-
-│── README.md
+│
+├── main.py
+├── README.md
 
 ---
 

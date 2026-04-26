@@ -6,20 +6,20 @@ A simple Command Line Interface (CLI) based Library Management System built usin
 
 🚀 Features
 
-📖 Add new books to the library
-📚 View all available books
-📥 Issue books to students
-📤 Return books
-🧾 Automatic fine calculation (₹5 per day after 7 days)
-🧑 Track student name, roll number, and issue date
+-📖 Add new books to the library
+-📚 View all available books
+-📥 Issue books to students
+-📤 Return books
+-🧾 Automatic fine calculation (₹5 per day after 7 days)
+-🧑 Track student name, roll number, and issue date
 
 ---
 
 🛠️ Tech Stack
 
-Language: Python
-Interface: Command Line Interface (CLI)
-Data Storage: In-memory (using dictionaries)
+-Language: Python
+-Interface: Command Line Interface (CLI)
+-Data Storage: In-memory (using dictionaries)
 
 ---
 
@@ -49,9 +49,9 @@ python main.py
 
 💡 How It Works
 
-Books are stored in a dictionary: books
-Issued books are tracked in: issued_books
-Student details are stored at the time of issuing
+-Books are stored in a dictionary: books
+-Issued books are tracked in: issued_books
+-Student details are stored at the time of issuing
 
 🔁 Workflow:
 
@@ -76,10 +76,10 @@ MENU
 
 📌 Future Improvements
 
-💾 Store data using files or database (SQLite/MySQL)
-🔐 Add login system for admin/users
-🌐 Convert into web app
-📊 Add full transaction history tracking
+-💾 Store data using files or database (SQLite/MySQL)
+-🔐 Add login system for admin/users
+-🌐 Convert into web app
+-📊 Add full transaction history tracking
 
 ---
 

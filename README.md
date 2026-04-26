@@ -35,7 +35,7 @@ library-management-system/
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/library-management-system.git
+git clone https://github.com/thelatika-22/library-management-system.git
 
 2. Go to the project folder:
 

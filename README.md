@@ -4,26 +4,26 @@ A simple Command Line Interface (CLI) based Library Management System built usin
 
 ---
 
-🚀 Features
+## 🚀 Features
 
--📖 Add new books to the library
--📚 View all available books
--📥 Issue books to students
--📤 Return books
--🧾 Automatic fine calculation (₹5 per day after 7 days)
--🧑 Track student name, roll number, and issue date
-
----
-
-🛠️ Tech Stack
-
--Language: Python
--Interface: Command Line Interface (CLI)
--Data Storage: In-memory (using dictionaries)
+- 📖 Add new books to the library
+- 📚 View all available books
+- 📥 Issue books to students
+- 📤 Return books
+- 🧾 Automatic fine calculation (₹5 per day after 7 days)
+- 🧑 Track student name, roll number, and issue date
 
 ---
 
-📂 Project Structure
+## 🛠️ Tech Stack
+
+- Language: Python
+- Interface: Command Line Interface (CLI)
+- Data Storage: In-memory (using dictionaries)
+
+---
+
+## 📂 Project Structure
 
 library-management-system/
 │── main.py   # Contains all functions and main menu
@@ -31,7 +31,7 @@ library-management-system/
 
 ---
 
-▶️ How to Run
+## ▶️ How to Run
 
 1. Clone the repository:
 
@@ -47,13 +47,13 @@ python main.py
 
 ---
 
-💡 How It Works
+##💡 How It Works
 
--Books are stored in a dictionary: books
--Issued books are tracked in: issued_books
--Student details are stored at the time of issuing
+- Books are stored in a dictionary: books
+- Issued books are tracked in: issued_books
+- Student details are stored at the time of issuing
 
-🔁 Workflow:
+## 🔁 Workflow:
 
 1. Add books to the system
 2. View available books
@@ -63,7 +63,7 @@ python main.py
 
 ---
 
-📸 Sample Menu
+## 📸 Sample Menu
 
 MENU
 1. ADD BOOKS
@@ -74,12 +74,12 @@ MENU
 
 ---
 
-📌 Future Improvements
+## 📌 Future Improvements
 
--💾 Store data using files or database (SQLite/MySQL)
--🔐 Add login system for admin/users
--🌐 Convert into web app
--📊 Add full transaction history tracking
+- 💾 Store data using files or database (SQLite/MySQL)
+- 🔐 Add login system for admin/users
+- 🌐 Convert into web app
+- 📊 Add full transaction history tracking
 
 ---
 

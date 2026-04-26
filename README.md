@@ -47,7 +47,7 @@ python main.py
 
 ---
 
-##💡 How It Works
+## 💡How It Works
 
 - Books are stored in a dictionary: books
 - Issued books are tracked in: issued_books

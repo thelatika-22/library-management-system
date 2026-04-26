@@ -83,19 +83,19 @@ MENU
 
 ---
 
-🙌 Contributing
+## 🙌 Contributing
 
 Feel free to fork this repository and improve it. Pull requests are welcome!
 
 ---
 
-📜 License
+## 📜 License
 
 This project is open-source and available under the MIT License.
 
 ---
 
-✨ Author
+## ✨ Author
 
 Latika Sharma
 
